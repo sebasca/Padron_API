@@ -1,0 +1,6 @@
+flask
+flask_api
+psycopg2-binary
+configparser
+requests
+json
